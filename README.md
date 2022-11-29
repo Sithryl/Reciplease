@@ -10,8 +10,9 @@ Simply choose between our drinks page or the main page which will display food r
 ## Live link
 
 https://github.com/xyiorgyx/Reciplease
+https://sithryl.github.io/Reciplease/
 
-## Link to repository
+## Link to main repository
 
 https://xyiorgyx.github.io/Reciplease/
 
@@ -22,3 +23,9 @@ https://xyiorgyx.github.io/Reciplease/
 ![Features page showing the different featured recipes](./assets/images/Features%20Page.png)
 
 ![Picture contains an list of diferent drink items.](./assets/images/Drinks%20Page.png)
+
+## Collaborators 
+https://github.com/Jvanduyn
+https://github.com/xyiorgyx
+https://github.com/JamaiaB
+https://github.com/jghall23
